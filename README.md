@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **drishtigoel083@gmail.com**
 
-- ⚡ Fun fact **Patiently waiting for my model to explain why my backend crashed;**
+- ⚡**Patiently waiting for my model to explain why my backend crashed;**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
